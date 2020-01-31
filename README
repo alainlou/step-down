@@ -1,0 +1,5 @@
+step-down
+-------------------------------------------------------------------------------
+ESP8266 program which builds a second unencrypted network from a connection to
+a WPA Enterprise PEAP network ("eduroam"). Based on the RangeExtender-NAPT from
+the Arduino ESP8266 community.
